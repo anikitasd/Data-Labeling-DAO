@@ -1,9 +1,6 @@
-# Data-Labeling-DAO
-An organization which allows individuals to label data and cross checks submissions for quality control
+# Data Labeling DAO
+The purpose of this organization is to help advance AI research and business analyzation by providing clients with high quality, quickly processed data at a significantly lower price.
 
-Hello
-
-An understanding of Decentralized Autonomous Organizations, methods of data labeling, web design, business, and statistics are necessary for this project.
 
 Goal: To create an business where companies send their data to the organization through API, the contributors are given data to label, the collection of labels and data are run through the QA statistical model, labels are returned to companies and money is distributed based on each contribution and its relevancy. 
 
